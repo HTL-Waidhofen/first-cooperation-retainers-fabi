@@ -1,25 +1,38 @@
-/* lOSPEC-COLOR-PALLETE: https://lospec.com/palette-list/nyx4-gb */
-
 *{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #08141e;
-    margin: 0pt;
-}
-h1{
-    text-align: center;
-    font-size: 40pt;
-    border: 2.5pt solid #6d7a80;
-    background-color: #0f2a3f;
-    color: #8caba1;
-}
-body{
-    border: 2.5pt solid #6d7a80;
+    background-color: white;
+    color: gray;
 }
 div{
-    background-color: #08141e;
-    color: #8caba1;
-    border: 2.5pt solid #6d7a80;
-    text-align: left;
+    text-align: center;
+    font-size: 30pt;
+    padding: 100pt;
+    margin: 0pt;
+    color: white;
+    background-color: gray;
+    font-style: italic;
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 40pt;
+    padding: 100pt;
+    margin: 0pt;
+    color: white;
+    background-color: black;
+}
+h2{
     font-size: 20pt;
-    padding: 10pt;
+    margin: 10pt;
+    font-weight: bold;
+    background-color: lightgray;
+}
+p{
+    font-style: normal;
+    font-size: 20pt;
+    padding-left: 10pt;
+    background-color: lightgray;
+}
+.content{
+    background-color: lightgray;
 }
