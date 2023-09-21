@@ -8,7 +8,18 @@
 h1{
     text-align: center;
     font-size: 40pt;
-    border: 5pt solid #6d7a80;
+    border: 2.5pt solid #6d7a80;
     background-color: #0f2a3f;
     color: #8caba1;
+}
+body{
+    border: 2.5pt solid #6d7a80;
+}
+div{
+    background-color: #08141e;
+    color: #8caba1;
+    border: 2.5pt solid #6d7a80;
+    text-align: left;
+    font-size: 20pt;
+    padding: 10pt;
 }
