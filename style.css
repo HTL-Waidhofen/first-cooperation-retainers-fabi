@@ -27,10 +27,16 @@ h2{
     font-weight: bold;
     background-color: lightgray;
 }
-p{
+p, ul, li{
     font-style: normal;
     font-size: 20pt;
     padding-left: 10pt;
+    background-color: lightgray;
+}
+ul, li{
+    text-align: left;
+}
+strong{
     background-color: lightgray;
 }
 .content{
