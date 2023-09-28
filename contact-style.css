@@ -45,3 +45,9 @@
   button[type="submit"]:hover {
     background-color: #0056b3;
   }
+  nav, a{
+    background-color: #222222;
+    color: gray;
+    padding: 10pt;
+    text-align: center;
+}
