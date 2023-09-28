@@ -63,5 +63,13 @@ a:hover{
     color: coral;
 }
 .ipLocator{
-    
+    background-color: white;
+    color: lightgray;
+    border-radius: 10pt;
+    font-size: 20pt;
+    font-weight: bold;
+}
+.ipLocator:hover{
+    background-color: coral;
+    color: white;
 }
