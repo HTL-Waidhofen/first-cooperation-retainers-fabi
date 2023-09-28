@@ -77,3 +77,9 @@ img{
     width: 40%;
     margin-top: -70pt;
 }
+.apply{
+    color: gray;
+    background-color: lightgray;
+    border-radius: 10pt;
+    font-size: 20pt;
+}
