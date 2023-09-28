@@ -73,3 +73,7 @@ a:hover{
     background-color: coral;
     color: white;
 }
+img{
+    width: 40%;
+    margin-top: -70pt;
+}
