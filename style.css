@@ -105,3 +105,20 @@ button{
     font-size: 20pt;
     margin-bottom: 10pt;
 }
+label, form{
+    background-color: lightgray;
+}
+#email{
+    width: 40%;
+}
+textarea{
+    border: 3pt solid gray;
+    border-radius: 10pt;
+    background-color: lightgray;
+    width: 60%;
+    height: 100pt;
+    margin: 20pt;
+    margin-bottom: -50pt;
+    font-size: 20pt;
+    padding: 10pt;
+}
