@@ -122,3 +122,21 @@ textarea{
     font-size: 20pt;
     padding: 10pt;
 }
+h4{
+    font-weight: bold;
+    text-align: center;
+    font-size: 50pt;
+    padding: 100pt;
+    margin: 0pt;
+    background-color: #222222;
+}
+h4 a{
+    border: 10pt solid gray;
+    padding: 10pt;
+    border-radius: 10pt;
+}
+h4 a:hover{
+    border: 10pt solid coral;
+    padding: 10pt;
+    border-radius: 10pt;
+}
