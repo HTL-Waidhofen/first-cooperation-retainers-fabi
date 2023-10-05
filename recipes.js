@@ -10,6 +10,8 @@ xmlHttp.open('GET', 'recipes.json', true);
 xmlHttp.send(null);
 
 function getRecipe(){
+    document.getElementById('page').innerHTML = '<h1 id="name"></h1><div id="description"></div><div class="content"><h2>Ingredients:</h2><br/><ul id="ingredients"></ul></div><div id="output"></div>'
+
     let ran = Math.floor(Math.random() * 1618)
     o = JSON.parse(xmlHttp.responseText);
 
